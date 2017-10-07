@@ -10,9 +10,9 @@ namespace lab4.Controllers
     {
         public IActionResult Index(String[] list)
         {
-            DateTimeOffset today = DateTimeOffset.Now;
+            DateTimeOffset today = DateTimeOffset.UtcNow;
             String month = DateTime.Now.ToString("MMMM");
-            DayOfWeek dayofweek = DateTimeOffset.Now.DayOfWeek;
+            DayOfWeek dayofweek = DateTimeOffset.UtcNow.DayOfWeek;
             int year = DateTime.Now.Year;
             int day = DateTime.Now.Day;
             String time = today.ToShortTimeString();
