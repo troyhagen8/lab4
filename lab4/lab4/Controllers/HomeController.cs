@@ -10,7 +10,6 @@ namespace lab4.Controllers
     {
         public IActionResult Index(String[] list)
         {
-            System.Globalization.CultureInfo.CurrentCulture.ClearCachedData()
             DateTimeOffset today = DateTimeOffset.Now;
             String month = DateTime.Now.ToString("MMMM");
             DayOfWeek dayofweek = DateTime.Now.DayOfWeek;
