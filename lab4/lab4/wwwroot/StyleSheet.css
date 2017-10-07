@@ -1,0 +1,43 @@
+﻿body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px;
+}
+
+h2{
+    background-color:aqua;
+    padding: 20px;
+    border-radius: 15px;
+}
+
+.link{
+    padding-top: 25px;
+}
+
+a{
+    text-decoration: none;
+    border: 2px solid blue;
+    border-radius: 15px;
+    padding: 10px;
+    color: black;
+}
+
+a:hover{
+    background-color: grey;
+}
+
+a:active{
+    background-color:aquamarine;
+}
+
+.box {
+    width: 75px;
+    height: 75px;
+    line-height: 75px;
+    vertical-align: middle;
+    background-color: blue;
+    margin: 10px;
+    font-size: xx-large;
+    color: white;
+    text-align: center;
+    border-radius: 15px;
+}

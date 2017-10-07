@@ -1,0 +1,33 @@
+C:\Users\hagent2\source\repos\lab4\lab4\bin\Debug\netcoreapp2.0\lab4.deps.json
+C:\Users\hagent2\source\repos\lab4\lab4\bin\Debug\netcoreapp2.0\lab4.runtimeconfig.json
+C:\Users\hagent2\source\repos\lab4\lab4\bin\Debug\netcoreapp2.0\lab4.runtimeconfig.dev.json
+C:\Users\hagent2\source\repos\lab4\lab4\bin\Debug\netcoreapp2.0\lab4.dll
+C:\Users\hagent2\source\repos\lab4\lab4\obj\Debug\netcoreapp2.0\lab4.csprojResolveAssemblyReference.cache
+C:\Users\hagent2\source\repos\lab4\lab4\obj\Debug\netcoreapp2.0\lab4.csproj.CoreCompileInputs.cache
+C:\Users\hagent2\source\repos\lab4\lab4\obj\Debug\netcoreapp2.0\lab4.AssemblyInfoInputs.cache
+C:\Users\hagent2\source\repos\lab4\lab4\obj\Debug\netcoreapp2.0\lab4.AssemblyInfo.cs
+C:\Users\hagent2\source\repos\lab4\lab4\bin\Debug\netcoreapp2.0\lab4.pdb
+C:\Users\hagent2\source\repos\lab4\lab4\obj\Debug\netcoreapp2.0\lab4.dll
+C:\Users\hagent2\source\repos\lab4\lab4\obj\Debug\netcoreapp2.0\lab4.pdb
+\\ac.stockton\root\UserHome\hagent2\Documents\lab4\lab4\bin\Debug\netcoreapp2.0\lab4.deps.json
+\\ac.stockton\root\UserHome\hagent2\Documents\lab4\lab4\bin\Debug\netcoreapp2.0\lab4.runtimeconfig.json
+\\ac.stockton\root\UserHome\hagent2\Documents\lab4\lab4\bin\Debug\netcoreapp2.0\lab4.runtimeconfig.dev.json
+\\ac.stockton\root\UserHome\hagent2\Documents\lab4\lab4\bin\Debug\netcoreapp2.0\lab4.dll
+\\ac.stockton\root\UserHome\hagent2\Documents\lab4\lab4\bin\Debug\netcoreapp2.0\lab4.pdb
+\\ac.stockton\root\UserHome\hagent2\Documents\lab4\lab4\obj\Debug\netcoreapp2.0\lab4.csprojResolveAssemblyReference.cache
+\\ac.stockton\root\UserHome\hagent2\Documents\lab4\lab4\obj\Debug\netcoreapp2.0\lab4.csproj.CoreCompileInputs.cache
+\\ac.stockton\root\UserHome\hagent2\Documents\lab4\lab4\obj\Debug\netcoreapp2.0\lab4.AssemblyInfoInputs.cache
+\\ac.stockton\root\UserHome\hagent2\Documents\lab4\lab4\obj\Debug\netcoreapp2.0\lab4.AssemblyInfo.cs
+\\ac.stockton\root\UserHome\hagent2\Documents\lab4\lab4\obj\Debug\netcoreapp2.0\lab4.dll
+\\ac.stockton\root\UserHome\hagent2\Documents\lab4\lab4\obj\Debug\netcoreapp2.0\lab4.pdb
+C:\Users\Troy Hagen\Desktop\lab4\lab4\lab4\bin\Debug\netcoreapp2.0\lab4.deps.json
+C:\Users\Troy Hagen\Desktop\lab4\lab4\lab4\bin\Debug\netcoreapp2.0\lab4.runtimeconfig.json
+C:\Users\Troy Hagen\Desktop\lab4\lab4\lab4\bin\Debug\netcoreapp2.0\lab4.runtimeconfig.dev.json
+C:\Users\Troy Hagen\Desktop\lab4\lab4\lab4\bin\Debug\netcoreapp2.0\lab4.dll
+C:\Users\Troy Hagen\Desktop\lab4\lab4\lab4\bin\Debug\netcoreapp2.0\lab4.pdb
+C:\Users\Troy Hagen\Desktop\lab4\lab4\lab4\obj\Debug\netcoreapp2.0\lab4.csprojResolveAssemblyReference.cache
+C:\Users\Troy Hagen\Desktop\lab4\lab4\lab4\obj\Debug\netcoreapp2.0\lab4.csproj.CoreCompileInputs.cache
+C:\Users\Troy Hagen\Desktop\lab4\lab4\lab4\obj\Debug\netcoreapp2.0\lab4.AssemblyInfoInputs.cache
+C:\Users\Troy Hagen\Desktop\lab4\lab4\lab4\obj\Debug\netcoreapp2.0\lab4.AssemblyInfo.cs
+C:\Users\Troy Hagen\Desktop\lab4\lab4\lab4\obj\Debug\netcoreapp2.0\lab4.dll
+C:\Users\Troy Hagen\Desktop\lab4\lab4\lab4\obj\Debug\netcoreapp2.0\lab4.pdb
