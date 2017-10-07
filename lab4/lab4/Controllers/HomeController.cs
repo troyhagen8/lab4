@@ -11,11 +11,11 @@ namespace lab4.Controllers
         public IActionResult Index(String[] list)
         {
 
-            DateTime today = DateTime.Now;
-            String month = DateTime.Now.ToString("MMMM");
-            DayOfWeek dayofweek = DateTime.Now.DayOfWeek;
-            int year = DateTime.Now.Year;
-            int day = DateTime.Now.Day;
+            DateTime today = DateTime.UtcNow;
+            String month = DateTime.UtcNow.ToString("MMMM");
+            DayOfWeek dayofweek = DateTime.UtcNow.DayOfWeek;
+            int year = DateTime.UtcNow.Year;
+            int day = DateTime.UtcNow.Day;
             String time = today.ToShortTimeString();
 
             int daysInYear = DateTime.IsLeapYear(today.Year) ? 366 : 365;
@@ -27,9 +27,9 @@ namespace lab4.Controllers
 
             TimeSpan start = new TimeSpan(11,59,59); //12 o'clock
             TimeSpan end = new TimeSpan(18, 0, 0); //12 o'clock
-            TimeSpan now = DateTime.Now.TimeOfDay;
+            TimeSpan now = DateTime.UtcNow.TimeOfDay;
 
-            if (DateTime.Now.ToString("tt") == "AM")
+            if (DateTime.UtcNow.ToString("tt") == "AM")
             {
                 greeting = "Good Morning";
             }
