@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -10,12 +10,13 @@ namespace lab4.Controllers
     {
         public IActionResult Index(String[] list)
         {
-            DateTimeOffset today = DateTime.Now;
-            String month = DateTime.Now.ToString("MMMM");
-            DayOfWeek dayofweek = DateTime.Now.DayOfWeek;
-            int year = DateTime.Now.Year;
-            int day = DateTime.Now.Day;
-            String time = today.ToShortTimeString();
+
+            DateTimeOffset today = DateTimeOffset.Now;
+            String month = DateTimeOffset.Now.ToString(format:"MMMM");
+            DayOfWeek dayofweek = DateTimeOffset.Now.DayOfWeek;
+            int year = DateTimeOffset.Now.Year;
+            int day = DateTimeOffset.Now.Day;
+            String time = today.ToString(format:"hh:mm tt");
 
             int daysInYear = DateTime.IsLeapYear(today.Year) ? 366 : 365;
             int daysLeftInYear = daysInYear - today.DayOfYear;
@@ -28,9 +29,9 @@ namespace lab4.Controllers
             TimeSpan end = new TimeSpan(18, 0, 0); //12 o'clock
             TimeSpan now = DateTime.Now.TimeOfDay;
 
-            if (DateTime.UtcNow.ToString("tt") == "AM")
+            if (DateTimeOffset.Now.ToString(format:"tt") == "AM")
             {
-                greeting = "Good Morning";
+                greeting = "Good Morning!";
             }
             else if((now > start) && (now < end))
             {
