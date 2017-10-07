@@ -12,7 +12,7 @@ namespace lab4.Controllers
         {
             DateTimeOffset today = DateTimeOffset.Now;
             String month = DateTime.Now.ToString("MMMM");
-            DayOfWeek dayofweek = DateTime.Now.DayOfWeek;
+            DayOfWeek dayofweek = DateTimeOffset.Now.DayOfWeek;
             int year = DateTime.Now.Year;
             int day = DateTime.Now.Day;
             String time = today.ToShortTimeString();
