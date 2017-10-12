@@ -25,7 +25,7 @@ namespace lab4.Controllers
             String greeting;
 
             TimeSpan start = new TimeSpan(11,59,59); //12 o'clock
-            TimeSpan end = new TimeSpan(18, 0, 0); //12 o'clock
+            TimeSpan end = new TimeSpan(18, 0, 0); //6 o'clock
             TimeSpan now = DateTime.Now.TimeOfDay;
 
             if (DateTime.UtcNow.ToString("tt") == "AM")
